@@ -8,7 +8,6 @@
 
 ### Sobre mí
 
-* 🔭 Actualmente estoy trabajando en **ISP Internet**, mejorando la conectividad y velocidad para nuestros usuarios.
 * 🌱 Estoy aprendiendo sobre **Ciencia de Datos** y **Machine Learning** para fortalecer mis habilidades y conocimientos.
 * 👯 Estoy buscando colaborar en proyectos de **inclusión visual** y accesibilidad web.
 * 👨‍💻 Todos mis proyectos están disponibles en [mi perfil de GitHub](https://github.com/LuisCRicci).
