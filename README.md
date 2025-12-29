@@ -10,7 +10,7 @@
 
 * 🌱 Estoy aprendiendo sobre **Ciencia de Datos** y **Machine Learning** para fortalecer mis habilidades y conocimientos.
 * 👨‍💻 Todos mis proyectos están disponibles en [mi perfil de GitHub](https://github.com/LuisCRicci).
-* 💬 Puedes preguntarme sobre **PHP**, **Vue.js** y desarrollo web en general.
+* 💬 Puedes preguntarme sobre **PHP**, **Vue.js** , **Python** y desarrollo web en general.
 * 📫 Mi correo electrónico es [luisricci@outlook.com.pe](mailto:luisricci@outlook.com.pe).
 
 ### Conecta conmigo
