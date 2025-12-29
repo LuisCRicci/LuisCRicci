@@ -3,7 +3,7 @@
   Hola, soy Luis 👋
 </h1>
 <h3 align="center">
-  Desarrollador Full Stack apasionado de Perú 🇵🇪
+  Desarrollador Full Stack y Analista de Datos 🇵🇪
 </h3>
 
 ### Sobre mí
